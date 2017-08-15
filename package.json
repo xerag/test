@@ -2,7 +2,7 @@
   "name": "nodetest",
   "version": "1.0.0",
   "description": "node test test",
-  "main": "index.js",
+  "main": "startserver.js",
   "dependencies": {
     "express": "^4.15.4",
     "twit": "^2.2.9"
